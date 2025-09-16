@@ -1,0 +1,6 @@
+{
+  "name": "Shopify Data Prep: URL Scraper & CSV Converter",
+  "description": "A multi-tool for Shopify data preparation. It scrapes product data from a URL's HTML source using Gemini or converts a generic product CSV into a Matrixify-ready import file.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
